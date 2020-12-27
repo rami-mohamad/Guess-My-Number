@@ -71,6 +71,7 @@ h1 {
 
 .between {
   font-size: 1.4rem;
+  color: red;
   position: absolute;
   top: 2rem;
   right: 2rem;
